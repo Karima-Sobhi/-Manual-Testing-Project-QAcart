@@ -8,6 +8,14 @@ This repository contains my complete end-to-end **manual testing project**, comp
 
 As part of the course, I worked on an **end-to-end testing project** writing all testcases, executing them and writing bug reports.
 
+The application under test (AUT) is a simple yet functional **ToDo web application** that allows users to:
+- Add and delete tasks
+- Mark tasks as completed or pending
+- View the current list of tasks
+- Register and log in to manage personal tasks
+
+This project focused on testing the core functionality and user experience of the application.
+
 ---
 
 ## ✅ What's Included
